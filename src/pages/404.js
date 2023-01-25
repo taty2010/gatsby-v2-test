@@ -46,4 +46,4 @@ const NotFoundPage = () => {
 
 export default NotFoundPage
 
-export const Head = () => <title>Not found</title>
+// export const Head = () => <title>Not found</title>

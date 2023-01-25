@@ -15,8 +15,11 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^5.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "@netlify/plugin-gatsby": "^3.4.8",
+    "gatsby": "^2.0.0",
+    "gatsby-link": "^4.0.0",
+    "gatsby-react-router-scroll": "^4.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   }
 }
